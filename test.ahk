@@ -1,2 +1,2 @@
-MsgBox, It's currently %a_hour%:%a_min%
+Run, https://www.youtube.com/feed/subscripitons
 ExitApp
