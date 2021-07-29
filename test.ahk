@@ -1,3 +1,2 @@
-MsgBox, Hello World
-MsgBox, It's currently %A_hour%:%A_min%
+MsgBox, It's currently %a_hour%:%a_min%
 ExitApp
